@@ -1,0 +1,11 @@
+D:\Projetos\INSSBOT NOVO\INSSBOT\INSSBOT.Domain\bin\Debug\INSSBOT.Domain.dll
+D:\Projetos\INSSBOT NOVO\INSSBOT\INSSBOT.Domain\bin\Debug\INSSBOT.Domain.pdb
+D:\Projetos\INSSBOT NOVO\INSSBOT\INSSBOT.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\INSSBOT NOVO\INSSBOT\INSSBOT.Domain\bin\Debug\Telegram.Bot.dll
+D:\Projetos\INSSBOT NOVO\INSSBOT\INSSBOT.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\INSSBOT NOVO\INSSBOT\INSSBOT.Domain\bin\Debug\Telegram.Bot.xml
+D:\Projetos\INSSBOT NOVO\INSSBOT\INSSBOT.Domain\obj\Debug\INSSBOT.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\INSSBOT NOVO\INSSBOT\INSSBOT.Domain\obj\Debug\INSSBOT.Domain.csproj.CopyComplete
+D:\Projetos\INSSBOT NOVO\INSSBOT\INSSBOT.Domain\obj\Debug\INSSBOT.Domain.dll
+D:\Projetos\INSSBOT NOVO\INSSBOT\INSSBOT.Domain\obj\Debug\INSSBOT.Domain.pdb
+D:\Projetos\INSSBOT NOVO\INSSBOT\INSSBOT.Domain\obj\Debug\INSSBOT.Domain.csprojResolveAssemblyReference.cache

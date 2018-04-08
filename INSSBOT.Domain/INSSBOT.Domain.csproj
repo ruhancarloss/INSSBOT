@@ -51,15 +51,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\IUsuarioRepository.cs" />
+    <Compile Include="Interfaces\IAposentadoriaService.cs" />
+    <Compile Include="Interfaces\IUsuarioService.cs" />
     <Compile Include="Model\Passos.cs" />
     <Compile Include="Model\Contribuinte.cs" />
     <Compile Include="Model\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\AposentadoriaService.cs" />
+    <Compile Include="Services\UsuarioService.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
